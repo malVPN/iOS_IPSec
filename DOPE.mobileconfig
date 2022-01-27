@@ -84,7 +84,7 @@
         <integer>0</integer>
       </dict>
       <key>UserDefinedName</key>
-      <string>167.172.73.197</string>
+      <string>DOPE</string>
       <key>VPNType</key>
       <string>IKEv2</string>
     </dict>
@@ -263,7 +263,7 @@ c/up6gthPUKGJTokWjaxKDS87GwHicoo+Psf1Dp/ps3Tv91kpqS41lE=
     </dict>
   </array>
   <key>PayloadDisplayName</key>
-  <string>IKEv2 VPN (167.172.73.197)</string>
+  <string>DOPE</string>
   <key>PayloadIdentifier</key>
   <string>com.apple.vpn.managed.efab5d43-82a0-40b6-83d3-157b84f440a1</string>
   <key>PayloadRemovalDisallowed</key>
